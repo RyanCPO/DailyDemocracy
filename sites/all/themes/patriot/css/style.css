@@ -1,0 +1,17 @@
+/* Main Styles */
+body {
+	background: #006 url(../images/bg-star.png);
+}
+
+/* Main Nav */
+.navbar #block-search-form {
+	display: inline-table;
+}
+
+/* Polls */
+.low-percent {
+	color: #777;
+	float: left;
+	margin-left: calc(100% + (10px) );
+	white-space: nowrap;
+}
